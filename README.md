@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 Web Front Developer
 - 📫 MIDAS IT
-- 💬 새로운 도전을 즐기는 모기같은 개발자 (Developers like mosquito that enjoy new challenges)
+- 💬 새로운 도전을 즐기는 모기같은 개발자 <br/>
+(Developers like mosquito that enjoy new challenges)
