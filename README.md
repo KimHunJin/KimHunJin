@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Web Front Developer
+- 📫 MIDAS IT
+- 💬 새로운 도전을 즐기는 모기같은 개발자
