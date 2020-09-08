@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Web Front Developer
 - 📫 MIDAS IT
-- 💬 새로운 도전을 즐기는 모기같은 개발자 <br/>
+- 💬 개발자를 위한 개발자 (Developer for Developer) <br/>
 (Developers like mosquito that enjoy new challenges)
+
+[![KimHunJin's github stats](https://github-readme-stats.vercel.app/api?username=KimHunJin)](https://github.com/anuraghazra/github-readme-stats)
