@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Web Front Developer
-- 📫 MIDAS IT
+- 📫 LINE Plus
 - 💬 개발자를 위한 개발자 (Developer for Developer) <br/>
 - [CS 공부 기록](https://www.notion.so/Computer-Science-fae3129d086a4a65a4ce6944edf4ec06)
 
